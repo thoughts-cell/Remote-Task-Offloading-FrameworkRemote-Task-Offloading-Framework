@@ -255,5 +255,10 @@ To add new computational tasks:
 4. Upload through the client GUI
 5. Select and execute from the task dropdown
 
+   
+![authentication](https://github.com/user-attachments/assets/25bc4c7d-fbd5-4ccf-98f8-15d269de661e)
 
+![Screenshot 2026-01-22 165956](https://github.com/user-attachments/assets/829748d2-4782-4ddb-81d3-51c3f7176eb5)
+
+![result](https://github.com/user-attachments/assets/5623f235-54a1-4a4b-8a9a-bea67e8e9314)
 
