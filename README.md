@@ -245,15 +245,6 @@ Tasks must implement the `Task` interface and can be dynamically loaded on the s
 - **Connection Handler**: Each server thread manages one client connection
 - **GUI Components**: Client-side user interface using Swing
 
-### Extending the Framework
-
-To add new computational tasks:
-
-1. Create a new class implementing the `Task` interface
-2. Implement the `execute()` method
-3. Compile to `.class` file
-4. Upload through the client GUI
-5. Select and execute from the task dropdown
 
    
 ![authentication](https://github.com/user-attachments/assets/25bc4c7d-fbd5-4ccf-98f8-15d269de661e)
